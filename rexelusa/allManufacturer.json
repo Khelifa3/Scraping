@@ -1,0 +1,7 @@
+{
+    "operationName": "Manufacturers",
+    "query": "query Manufacturers($bannerCode: BannerCodeEnum!) {\n  manufacturers(bannersFilter: [$bannerCode]) {\n    nodes {\n      base {\n        nameSlug\n        code\n        __typename\n      }\n      code\n      description\n      hasProducts\n      id\n      logoUrl\n      name\n      nameSlug\n      productCountActive\n      searchUrlInternal {\n        ...searchUrlInternal\n        __typename\n      }\n      websiteUrl\n      __typename\n    }\n    totalCount\n    __typename\n  }\n  viewer(bannerCode: $bannerCode) {\n    customerByIdOrDefaultV2 {\n      cmsPageBySlug(slug: \n\"brands\") {\n        ...cmsPage\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\nfragment searchUrlInternal on UrlStorefrontSearch {\n  attributeValueCodes\n  branchStock\n  categoryCode\n  cimIds\n  clearance\n  crossSell {\n    productNumber\n    crossSellType\n    __typename\n  }\n  listIds\n  madeInUsa\n  manufacturerCodes\n  newProducts\n  normallyStocked\n  onSale\n  preferredProducts\n  previouslyPurchased\n  promoIds\n  query\n  queryWithin\n  recentlyViewed\n  slug\n  __typename\n}\nfragment cmsPage on CmsPage {\n  id\n  title\n  pageMeta {\n    ...pageMetadata\n    __typename\n  }\n  urlExternal {\n    location\n    __typename\n  }\n  __typename\n}\nfragment pageMetadata on PageMetadata {\n  description\n  pageTitlePartial\n  __typename\n}",
+    "variables": {
+        "bannerCode": "REXEL"
+    }
+}

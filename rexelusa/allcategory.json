@@ -1,0 +1,7 @@
+{
+    "operationName": "AllCategories",
+    "query": "query AllCategories($bannerCode: BannerCodeEnum!) {\n  viewer(bannerCode: $bannerCode) {\n    categoriesRoot {\n      nodes {\n        code\n        homePageDescription\n        image {\n          ...sq90\n          __typename\n        }\n        shortName\n        longName\n        searchUrlInternal {\n          ...searchUrlInternal\n          __typename\n        }\n        sortOrder\n        children {\n          code\n          descendantProductsCount\n          shortName\n          longName\n          searchUrlInternal {\n            ...searchUrlInternal\n            __typename\n          }\n          sortOrder\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\nfragment sq90 on ProductMediaImage {\n  sq90: min(pixels: 90) {\n    url\n    __typename\n  }\n  __typename\n}\nfragment searchUrlInternal on UrlStorefrontSearch {\n  attributeValueCodes\n  branchStock\n  categoryCode\n  cimIds\n  clearance\n  crossSell {\n    productNumber\n    crossSellType\n    __typename\n  }\n  listIds\n  madeInUsa\n  manufacturerCodes\n  newProducts\n  normallyStocked\n  onSale\n  preferredProducts\n  previouslyPurchased\n  promoIds\n  query\n  queryWithin\n  recentlyViewed\n  slug\n  __typename\n}",
+    "variables": {
+        "bannerCode": "REXEL"
+    }
+}

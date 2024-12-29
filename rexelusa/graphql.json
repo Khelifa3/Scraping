@@ -1,0 +1,28 @@
+{
+    "operationName": "ProductsRealtimePrice",
+    "query": "query ProductsRealtimePrice($bannerCode: BannerCodeEnum!, $customerId: ID!, $productNumbers: [String], $branchNumbers: [String], $jobAccountNumber: String) {\n  viewer(bannerCode: $bannerCode) {\n    customerById(customerId: $customerId) {\n      productsByNumbers(productNumbers: $productNumbers) {\n        summary {\n          __typename\n          ... on Product {\n            productNumber\n            __typename\n          }\n        }\n        prices(branchNumbers: $branchNumbers, jobAccountNumber: $jobAccountNumber) {\n          price {\n            __typename\n            ... on ProductPricingWithAmount {\n              amount\n              amountFormatted\n              decimalPlaces\n              extendedAmount\n              extendedAmountFormatted\n              quantity\n              unitOfMeasure\n              unitOfMeasureFactor\n              __typename\n            }\n            ... on ProductPricingUnavailable {\n              message\n              status\n              __typename\n            }\n          }\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}",
+    "variables": {
+        "bannerCode": "REXEL",
+        "branchNumbers": [],
+        "customerId": "kgGUAsDOAARaasA",
+        "jobAccountNumber": null,
+        "productNumbers": [
+            "36229",
+            "35489",
+            "51844",
+            "50814",
+            "50895",
+            "36052",
+            "27477",
+            "36116",
+            "27359",
+            "27166",
+            "674946",
+            "12858",
+            "17703",
+            "27086",
+            "36895",
+            "26891"
+        ]
+    }
+}

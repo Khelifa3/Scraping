@@ -1,0 +1,638 @@
+[
+    [
+        "Arizona Cardinals",
+        "CRD"
+    ],
+    [
+        "Arizona Cardinals",
+        "ARI"
+    ],
+    [
+        "Atlanta Falcons",
+        "ATL"
+    ],
+    [
+        "Baltimore Ravens",
+        "RAV"
+    ],
+    [
+        "Baltimore Ravens",
+        "BAL"
+    ],
+    [
+        "Buffalo Bills",
+        "BUF"
+    ],
+    [
+        "Carolina Panthers",
+        "CAR"
+    ],
+    [
+        "Chicago Bears",
+        "CHI"
+    ],
+    [
+        "Cincinnati Bengals",
+        "CIN"
+    ],
+    [
+        "Cleveland Browns",
+        "CLE"
+    ],
+    [
+        "Dallas Cowboys",
+        "DAL"
+    ],
+    [
+        "Denver Broncos",
+        "DEN"
+    ],
+    [
+        "Detroit Lions",
+        "DET"
+    ],
+    [
+        "Green Bay Packers",
+        "GNB"
+    ],
+    [
+        "Houston Oilers",
+        "HOU"
+    ],
+    [
+        "Houston Texans",
+        "HTX"
+    ],
+    [
+        "Houston Texans",
+        "HOU"
+    ],
+    [
+        "Indianapolis Colts",
+        "CLT"
+    ],
+    [
+        "Indianapolis Colts",
+        "IND"
+    ],
+    [
+        "Jacksonville Jaguars",
+        "JAX"
+    ],
+    [
+        "Kansas City Chiefs",
+        "KAN"
+    ],
+    [
+        "Las Vegas Raiders",
+        "RAI"
+    ],
+    [
+        "Las Vegas Raiders",
+        "LVR"
+    ],
+    [
+        "Los Angeles Chargers",
+        "SDG"
+    ],
+    [
+        "Los Angeles Chargers",
+        "LAC"
+    ],
+    [
+        "Los Angeles Raiders",
+        "RAI"
+    ],
+    [
+        "Los Angeles Rams",
+        "LAR"
+    ],
+    [
+        "Los Angeles Rams",
+        "RAM"
+    ],
+    [
+        "Miami Dolphins",
+        "MIA"
+    ],
+    [
+        "Minnesota Vikings",
+        "MIN"
+    ],
+    [
+        "New England Patriots",
+        "NWE"
+    ],
+    [
+        "New Orleans Saints",
+        "NOR"
+    ],
+    [
+        "New York Bulldogs",
+        "NYB"
+    ],
+    [
+        "New York Giants",
+        "NYG"
+    ],
+    [
+        "New York Jets",
+        "NYJ"
+    ],
+    [
+        "New York Titans",
+        "NYT"
+    ],
+    [
+        "Phi/Pit Eagles/Steelers",
+        "PHI"
+    ],
+    [
+        "Philadelphia Eagles",
+        "PHI"
+    ],
+    [
+        "Phoenix Cardinals",
+        "PHO"
+    ],
+    [
+        "Pittsburgh Steelers",
+        "PIT"
+    ],
+    [
+        "Pittsburgh Pirates",
+        "PIT"
+    ],
+    [
+        "San Diego Chargers",
+        "SDG"
+    ],
+    [
+        "San Francisco 49ers",
+        "SFO"
+    ],
+    [
+        "Seattle Seahawks",
+        "SEA"
+    ],
+    [
+        "Tampa Bay Buccaneers",
+        "TAM"
+    ],
+    [
+        "Tennessee Oilers",
+        "TEN"
+    ],
+    [
+        "Tennessee Titans",
+        "OTI"
+    ],
+    [
+        "Tennessee Titans",
+        "TEN"
+    ],
+    [
+        "Washington Commanders",
+        "WAS"
+    ],
+    [
+        "Washington Football Team",
+        "WAS"
+    ],
+    [
+        "Washington Redskins",
+        "WAS"
+    ],
+    [
+        "Teams",
+        "TEAMS"
+    ],
+    [
+        "Bills",
+        "BUF"
+    ],
+    [
+        "Dolphins",
+        "MIA"
+    ],
+    [
+        "Patriots",
+        "NWE"
+    ],
+    [
+        "Jets",
+        "NYJ"
+    ],
+    [
+        "Steelers",
+        "PIT"
+    ],
+    [
+        "Ravens",
+        "RAV"
+    ],
+    [
+        "Bengals",
+        "CIN"
+    ],
+    [
+        "Browns",
+        "CLE"
+    ],
+    [
+        "Texans",
+        "HTX"
+    ],
+    [
+        "Colts",
+        "CLT"
+    ],
+    [
+        "Titans",
+        "OTI"
+    ],
+    [
+        "Jaguars",
+        "JAX"
+    ],
+    [
+        "Chiefs",
+        "KAN"
+    ],
+    [
+        "Broncos",
+        "DEN"
+    ],
+    [
+        "Chargers",
+        "SDG"
+    ],
+    [
+        "Raiders",
+        "RAI"
+    ],
+    [
+        "Eagles",
+        "PHI"
+    ],
+    [
+        "Commanders",
+        "WAS"
+    ],
+    [
+        "Cowboys",
+        "DAL"
+    ],
+    [
+        "Giants",
+        "NYG"
+    ],
+    [
+        "Lions",
+        "DET"
+    ],
+    [
+        "Vikings",
+        "MIN"
+    ],
+    [
+        "Packers",
+        "GNB"
+    ],
+    [
+        "Bears",
+        "CHI"
+    ],
+    [
+        "Buccaneers",
+        "TAM"
+    ],
+    [
+        "Falcons",
+        "ATL"
+    ],
+    [
+        "Saints",
+        "NOR"
+    ],
+    [
+        "Panthers",
+        "CAR"
+    ],
+    [
+        "Seahawks",
+        "SEA"
+    ],
+    [
+        "Rams",
+        "RAM"
+    ],
+    [
+        "Cardinals",
+        "CRD"
+    ],
+    [
+        "Chicago Cardinals",
+        "CRD"
+    ],
+    [
+        "Chicago Rockets",
+        "CHR"
+    ],
+    [
+        "49ers",
+        "SFO"
+    ],
+    [
+        "Akron Indians",
+        "AKR"
+    ],
+    [
+        "Baltimore Colts",
+        "BCL"
+    ],
+    [
+        "Baltimore Colts",
+        "BAL"
+    ],
+    [
+        "Bos/Bkn Yanks/Tigers",
+        "BOS"
+    ],
+    [
+        "Boston Braves",
+        "BOS"
+    ],
+    [
+        "Boston Patriots",
+        "BOS"
+    ],
+    [
+        "Boston Bulldogs",
+        "PTB"
+    ],
+    [
+        "Boston Redskins",
+        "BOS"
+    ],
+    [
+        "Boston Yanks",
+        "BYK"
+    ],
+    [
+        "Boston Yanks",
+        "BOS"
+    ],
+    [
+        "Brooklyn Dodgers",
+        "BDA"
+    ],
+    [
+        "Brooklyn Dodgers",
+        "BKN"
+    ],
+    [
+        "Brooklyn Lions",
+        "BRL"
+    ],
+    [
+        "Brooklyn Tigers",
+        "BKN"
+    ],
+    [
+        "Buffalo Bills",
+        "BBA"
+    ],
+    [
+        "Buffalo Bisons",
+        "BFF"
+    ],
+    [
+        "Buffalo Bisons",
+        "BUF"
+    ],
+    [
+        "Canton Bulldogs",
+        "CBD"
+    ],
+    [
+        "Chi/Pit Cards/Steelers",
+        "CRD"
+    ],
+    [
+        "Chicago Hornets",
+        "CHH"
+    ],
+    [
+        "Chicago Hornets",
+        "CRA"
+    ],
+    [
+        "Chicago Tigers",
+        "CHT"
+    ],
+    [
+        "Cincinnati Celts",
+        "CCL"
+    ],
+    [
+        "Cincinnati Reds",
+        "CIN"
+    ],
+    [
+        "Cincinnati Reds",
+        "RED"
+    ],
+    [
+        "Cleveland Bulldogs",
+        "CIB"
+    ],
+    [
+        "Cleveland Indians",
+        "CLI"
+    ],
+    [
+        "Cleveland Rams",
+        "RAM"
+    ],
+    [
+        "Columbus Tigers",
+        "COL"
+    ],
+    [
+        "Dallas Texans",
+        "DTX"
+    ],
+    [
+        "Dayton Triangles",
+        "DAY"
+    ],
+    [
+        "Detroit Heralds",
+        "DHR"
+    ],
+    [
+        "Detroit Panthers",
+        "DPN"
+    ],
+    [
+        "Detroit Tigers",
+        "DTI"
+    ],
+    [
+        "Detroit Wolverines",
+        "DWL"
+    ],
+    [
+        "Duluth Eskimos",
+        "DUL"
+    ],
+    [
+        "Evansville Crimson Giants",
+        "ECG"
+    ],
+    [
+        "Frankford Yellow Jackets",
+        "FYJ"
+    ],
+    [
+        "Hammond Pros",
+        "HAM"
+    ],
+    [
+        "Hartford Blues",
+        "HRT"
+    ],
+    [
+        "Kansas City Cowboys",
+        "KCB"
+    ],
+    [
+        "Kenosha Maroons",
+        "KEN"
+    ],
+    [
+        "Los Angeles Buccaneers",
+        "LAB"
+    ],
+    [
+        "Los Angeles Dons",
+        "LDA"
+    ],
+    [
+        "Los Angeles Dons",
+        "LAD"
+    ],
+    [
+        "Louisville Colonels",
+        "LOU"
+    ],
+    [
+        "Miami Seahawks",
+        "MSA"
+    ],
+    [
+        "Miami Seahawks",
+        "MIA"
+    ],
+    [
+        "Milwaukee Badgers",
+        "MIL"
+    ],
+    [
+        "Minneapolis Red Jackets",
+        "MNN"
+    ],
+    [
+        "Muncie Flyers",
+        "MUN"
+    ],
+    [
+        "New York Brickley Giants",
+        "NG1"
+    ],
+    [
+        "New York Yankees",
+        "NAA"
+    ],
+    [
+        "New York Yankees",
+        "NYA"
+    ],
+    [
+        "New York Yankees",
+        "NYY"
+    ],
+    [
+        "New York Yanks",
+        "NYY"
+    ],
+    [
+        "Newark Tornadoes",
+        "TOR"
+    ],
+    [
+        "Oorang Indians",
+        "OOR"
+    ],
+    [
+        "Oakland Raiders",
+        "OAK"
+    ],
+    [
+        "Portsmouth Spartans",
+        "PRT"
+    ],
+    [
+        "Providence Steam Roller",
+        "PRV"
+    ],
+    [
+        "Racine Tornadoes",
+        "RAC"
+    ],
+    [
+        "Rochester Jeffersons",
+        "RCH"
+    ],
+    [
+        "Rock Island Independents",
+        "RII"
+    ],
+    [
+        "St. Louis All-Stars",
+        "SLA"
+    ],
+    [
+        "St. Louis Cardinals",
+        "STL"
+    ],
+    [
+        "St. Louis Gunners",
+        "GUN"
+    ],
+    [
+        "St. Louis Gunners",
+        "STL"
+    ],
+    [
+        "St. Louis Rams",
+        "STL"
+    ],
+    [
+        "Staten Island Stapletons",
+        "SIS"
+    ],
+    [
+        "Toledo Maroons",
+        "TOL"
+    ],
+    [
+        "Tonawanda Kardex",
+        "TON"
+    ],
+    [
+        "Washington Senators",
+        "SEN"
+    ]
+]
